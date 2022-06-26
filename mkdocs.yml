@@ -1,16 +1,16 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: FSDS-NER-PROJECT
 # defeine TOC or order of website-
 nav:
   - Home: index.md
 
-site_author: Sunny Bhaveen Chandra
+site_author: Sainath Pawar
 site_description: >-
   DESCRIPTION
 
 # Repository
-repo_name: c17hawke/REPO_NAME
-repo_url: https://github.com/c17hawke/REPO_NAME
+repo_name: sainathpawar/FSDS-NER-PROJECT
+repo_url: https://github.com/sainathpawar/FSDS-NER-PROJECT
 
 # Configuration
 theme:
@@ -70,4 +70,4 @@ plugins:
   - search
 
 copyright: |
-  &copy; 2022 <a href="https://github.com/c17hawke"  target="_blank" rel="noopener">Sunny Bhaveen Chandra</a>
+  &copy; 2022 <a href="https://github.com/sainathpawar/FSDS-NER-PROJECT"  target="_blank" rel="noopener">Sunny Bhaveen Chandra</a>
